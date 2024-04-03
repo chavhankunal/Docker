@@ -1,10 +1,12 @@
-# what is Docker?
+# What is Docker?
 
 -Docker is a software development tool and a virtualization technology that makes it 
 easy to develop, deploy, and manage applications by using containers.
+
 -Container refers to a lightweight, stand-alone, executable package of a piece of 
 software that contains all the libraries, configuration files, dependencies, and other 
 necessary parts to operate the application.
+
 -Ex: Ubuntu + Python + Dependencies
 
 # Docker Architecture:
@@ -16,7 +18,7 @@ running, and distributing your Docker containers.
 client to a remote Docker daemon. 
 • For a virtual communication between CLI client and Docker daemon, a REST API is used
 
-#Docker Images & Containers:
+# Docker Images & Containers:
 
 • Docker Image: Docker image can be compared to a template that is used to 
 create Docker containers. These are read-only templates that contains application 
